@@ -13,7 +13,7 @@
   <tr>
       <td>
         <span>
-          I'm 20 year-old developer from Russia. I code in JavaScript, TypeScript, but i'm always learning and open to new technology. Currently i'm working on          company called <a href="https://wilix.ru/">@Wilix</a>.
+          I'm 22 year-old developer from Russia. I code in JavaScript, TypeScript, but i'm always learning and open to new technology. Currently i'm working on          company called <a href="https://wilix.ru/">@Wilix</a>.
           </span>
           <h2>My skills</h2>
           <h3>Web technologies</h3>
@@ -25,11 +25,13 @@
             <li>Vue, Vuex</li>
             <li>Node</li>
             <li>Postgres</li>
+            <li>React Native</li>
+            <li>Next</li>
           </ul>
          <h2>Currently Learning</h2>
           <ul>
-            <li>React Native</li>
-            <li>Nuxt, Next</li>
+            <li>Vue v3</li>
+            <li>Nuxt</li>
             <li>Deep knowledge node.js</li>
           </ul>
       </td>
